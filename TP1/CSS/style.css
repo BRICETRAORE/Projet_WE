@@ -19,7 +19,7 @@ a {
 
 body {
     /*image des pages web*/
-    background-image: url(/images/greyzz.png);
+    background-image: url(https://images.unsplash.com/photo-1602024496335-118040e05d2d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTUwfHx2b3lhZ2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60);
 }
 
 
@@ -62,4 +62,10 @@ nav a {
     margin-left: 5rem;
     font-weight: bold;
 
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    color: blue;
 }
