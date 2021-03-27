@@ -63,3 +63,9 @@ nav a {
     font-weight: bold;
 
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+}
